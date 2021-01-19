@@ -1,0 +1,105 @@
+h1 {
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    color: white;
+}
+h2 {
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    color: deepskyblue;
+}
+body {
+    background-color: #062f4f;
+}
+nav {
+    background-color: black;
+}
+.fa-facebook-f {
+   font-size: 3em;
+}
+.navbar-brand {
+    font-family: 'Bebas Neue', cursive;
+}
+.nav-link {
+    font-family: 'Kanit', sans-serif;
+}
+img {
+    display: block;
+    margin: auto;
+    width: 250px; height: 250px;
+    border-radius: 50%;
+}
+h3 {
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    color: deepskyblue;
+
+}
+h4 {
+    text-align: center;
+    font-family: 'Dosis', sans-serif;
+    color: white;
+
+}
+.img_mediana {
+    display: block;
+    margin: auto;
+    border-radius: 10%;
+}
+.img_centrada {
+    display: block;
+    margin: auto;
+    width: 250px; height: 250px;
+    border-radius: 50%;
+}
+footer {
+    background-color:#95bfe5 ;
+}
+main {
+    background-color:#306597;
+}
+hr {
+    width: 75%;
+    background-color: white;
+}
+.form-group {
+    align-content:center;
+    margin: auto;
+    border: auto;
+    width: 50%;
+}
+#footer {
+    background-color: rgb(63, 78, 94);
+}
+h5 {
+    text-align: center;
+    font-family: 'Dosis', sans-serif;
+    color: rgb(17, 13, 13);
+}
+.fa-github {
+    width: 34px;
+    height: 34px;
+}
+.copy {
+    text-align: center;
+    margin: auto;
+}
+#copyright {
+    text-size-adjust: 5px;
+    text-align: center;
+    font-family: 'Dosis', sans-serif;
+    color: white;
+}
+.icon1 {
+    align-content: left;
+}
+.icon2 {
+    align-content: center;
+}
+.icon3 {
+    align-content: right;
+}
+a {
+    margin: auto;
+    align-items: center;
+}
