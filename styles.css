@@ -9,6 +9,9 @@ h2 {
     color: deepskyblue;
 }
 body {
+    padding-top: 70px;
+    width: 100%;
+    margin: auto;
     background-color: #062f4f;
 }
 nav {
@@ -53,9 +56,13 @@ h4 {
     border-radius: 50%;
 }
 footer {
+    margin: auto;
+    width: 100%;
     background-color:#95bfe5 ;
 }
 main {
+    margin: auto;
+    width: 100%;
     background-color:#306597;
 }
 hr {
