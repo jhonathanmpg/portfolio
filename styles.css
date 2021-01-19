@@ -110,3 +110,7 @@ a {
     margin: auto;
     align-items: center;
 }
+.row {
+    width: 100%;
+    margin: auto;
+}
