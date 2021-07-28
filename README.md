@@ -1,1 +1,1 @@
-# Portfolio de ejercicio para Plataforma 5
+# Portfolio con algunos de los proyectos en los que he participado y varios de cursos que he hecho
