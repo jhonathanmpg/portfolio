@@ -44,6 +44,12 @@ h4 {
     color: white;
 
 }
+h5 {
+    text-align: justify;
+    font-family: 'Dosis', sans-serif;
+    color: white;
+
+}
 .img_mediana {
     display: block;
     margin: auto;
